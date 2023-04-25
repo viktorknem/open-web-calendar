@@ -10,7 +10,7 @@
 ## url can be a single link to an ics file or a list.
 #url: https://your.link.to/a-file.ics
 url:
-- https://www.calendarlabs.com/ical-calendar/ics/46/Germany_Holidays.ics
+- http://www.vrbo.com/icalendar/fb97b3e16f7946b2808441cc5c0345da.ics?nonTentative
 #- https://www.calendarlabs.com/ical-calendar/ics/46/Germany_Holidays.ics
 #- https://www.calendarlabs.com/ical-calendar/ics/46/Germany_Holidays.ics
 
